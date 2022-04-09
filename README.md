@@ -6,8 +6,11 @@ This resume workflow is created by Yohan John Lee and is intended to be used as 
 - Azure Static Web Apps
 - Azure Functions
 - Github Actions (CICD pipeline)
+- Github Codespace (devcontainer & Dockerfile)
 
 
 ## 2 Logical Architecture
 ### 2.1	Logical System Component Overview
 ![Figure 1: Logical Architecture Overview](./.images/workflow.png)
+- Azure Static Web Apps gets deployed via IaC (Azure Bicep)
+- Code gets pushed to Github via integrated into the pipeline
