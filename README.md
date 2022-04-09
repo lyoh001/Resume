@@ -14,3 +14,6 @@ This resume workflow is created by Yohan John Lee and is intended to be used as 
 ![Figure 1: Logical Architecture Overview](./.images/workflow.png)
 - Azure Static Web Apps gets deployed via IaC (Azure Bicep)
 - Code gets pushed to Github via integrated into the pipeline
+
+## 3 Resume Link
+Ref: [Resume](https://brave-beach-09b8f9f10.1.azurestaticapps.net/)
